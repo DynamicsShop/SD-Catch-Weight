@@ -26,6 +26,8 @@
 
 - AppSource App - The Catch Weight Units field and functionality was added to the Item Reclassification Journal.
 
+- AppSource App - Catch Weight logic and functionality was added to the Purchase Receipt, Sales Shipment, Inventory Put Away, Inventory Pick, Warehouse Receipt and Warehouse Shipment.
+
 - AppSource App - The Catch Weight Units, Units on Purchase Order and Units on Sales Order were surfaced on the Item Card. 
 
 - AppSource App - Default Freeze Journal Template and Batch and Default Campaign Journal Template and Batch were added to the SD Catch Weight Setup Card.
