@@ -78,7 +78,7 @@
 
 - AppSource App - Changes were made to the Manage Subscriptions page.
 
-- AppSource App - The notification to activate the app, displayed on fresh install of SD Inventory Cockpit, was added to the standard Business Central role centres.
+- AppSource App - A notification to activate the app was added to the standard Business Central role centres.
 
 ### 2.0.0
 
