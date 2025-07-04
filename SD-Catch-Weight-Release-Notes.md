@@ -20,6 +20,8 @@
 
 - AppSource App - The Item Ledger Entry table was extended to surface Units and the Item Units table was retired.
 
+- AppSource App - Functionality was created to clear off Remaining Catch Weight Units where the Remaining Qty on the ILE entry is 0.
+
 - AppSource App - Lot No, Expiration Date, and Item Category Code are now shown by default on the Item Ledger Entry List.
 
 - AppSource App - Functionality was added to allow for modification of Units and Remaining Units on the Item Ledger Entry. Changes made are written to a Log table.
