@@ -20,6 +20,8 @@
 
 - AppSource App - The Item Ledger Entry table was extended to surface Units and the Item Units table was retired.
 
+- AppSource App - On the Item Card, the Insufficient Units Action can be set to warn or block. This message is raised when the system is unable to apply units on the ILE record when insufficient units exist in stock.
+
 - AppSource App - Functionality was created to clear off Remaining Catch Weight Units where the Remaining Qty on the ILE entry is 0.
 
 - AppSource App - Lot No, Expiration Date, and Item Category Code are now shown by default on the Item Ledger Entry List.
@@ -29,6 +31,12 @@
 - AppSource App - The Catch Weight Units field and functionality was added to the Item Reclassification Journal.
 
 - AppSource App - Catch Weight logic and functionality was added to the Purchase Receipt, Sales Shipment, Inventory Put Away, Inventory Pick, Warehouse Receipt and Warehouse Shipment.
+
+- AppSource App - Catch Weight Units to Receive and Catch Weight Units Received and associated functionality was added to the Purchase Orders, Purchase Receipt, Warehouse Receipts, and Inventory Put Away.
+
+- AppSource App - Catch Weight Units to Ship and Catch Weight Units Shipped and associated functionality was added to the Sales Orders, Sales Shipment, Warehouse Shipments and Inventory Pick.
+
+- AppSource App - Catch Weight Units to Transfer and associated functionality was added to the Transfer Orders.
 
 - AppSource App - The Catch Weight Units, Units on Purchase Order and Units on Sales Order were surfaced on the Item Card. 
 
