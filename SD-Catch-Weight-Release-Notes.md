@@ -42,6 +42,8 @@
 
 - AppSource App - Additional fields were added to the SD Catch Weight FastTab on the extension to the Item Card.
 
+- AppSource App - Units in Stock, on Purchase Order and on Sales Order were surfaced in the Catch Weight FactBox.
+
 - AppSource App - The Campaign Journal on the Item Card now filters down to Item Journals of Type of Transfer rather than to Type of Item.
 
 - AppSource App - The user is prompted that they need to turn on Lot Tracking for the Item if Enforce Shelf Life on an Item is enabled. 
