@@ -1,3 +1,11 @@
+## SD Catch Weight Releases
+
+### 3.0.1
+
+#### Enhancements
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
 ### 3.0.0
 
 #### Enhancements
